@@ -1,5 +1,4 @@
 # Raddiwala
-## Pitchers
 
 India has a significant unorganised sector consisting of highly localised small scale “kabbadiwalas” or “raddiwalas” as they are popularly known. They are scrap dealers who buy domestic scrap and junk, such as old newspapers, discarded electronic and metallic items by weight from the homes of people.
  
